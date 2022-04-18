@@ -14,13 +14,15 @@ Zillow function will scrap new data everytime we run the code, data cleaning and
 Interactive console offers the following options, users will be able type in a number between 1-8 to start, and then interact according to the prompt and instrcution.
 
 Seaching:
+
 1. See all home for sale listing in your city
 2. Search home for sale by number of rooms
 3. Search home for sale by squarefeet
 4. Find an affordable home within your budget
 
 Visualization:
-6. Compare the average housing price across different cities in Michigan
-7. Correlation between different aspects of home
-8. Search for cities has top neighberhoods, highest median household income
-9. Check housing price range for differnt floor plans
+
+5. Compare the average housing price across different cities in Michigan
+6. Correlation between different aspects of home
+7. Search for cities has top neighberhoods, highest median household income
+8. Check housing price range for differnt floor plans
