@@ -1,6 +1,6 @@
-# 507_final_project Find your dream home
+# 507_final_project 
 
-The goal of this project is to help people to make informed decision when they are trying to buy a home in the state of Michigan. The code is written in Jupyter Notebook, running ipynb file in Jupyter Notebook, Jupyther lab or vs code is recommened. Required python packages are listed in the project documentation. This Jupyter notebook sections.
+The goal of this 'find your dream home' project is to help people to make informed decision when they are trying to buy a home in the state of Michigan. The code is written in Jupyter Notebook, running ipynb file in Jupyter Notebook, Jupyther lab or vs code is recommened. Required python packages are listed in the project documentation. This Jupyter notebook sections.
 
 Section 1: Import required python packages
 Section 2: Data source 1 Census API
@@ -11,8 +11,6 @@ Section 6: Interaction and visual presentation
 
 Interactive console offers the following options, users will be able type in a number between 1-8 to start, and then interact according to the prompt and instrcution.
 
-Welcome to the 'Find Your Dream Home' project. This projects explores real estate data in Michigan and will help you make informed decision when buying a home.
-----------------------------------------------------------------------------------------------------
 1. See all home for sale listing in your city
 2. Search home for sale by number of rooms
 3. Search home for sale by squarefeet
