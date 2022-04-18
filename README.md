@@ -19,7 +19,7 @@ Seaching:
 3. Search home for sale by squarefeet
 4. Find an affordable home within your budget
 
-Visualization
+Visualization:
 6. Compare the average housing price across different cities in Michigan
 7. Correlation between different aspects of home
 8. Search for cities has top neighberhoods, highest median household income
