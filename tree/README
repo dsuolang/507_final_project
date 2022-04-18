@@ -1,5 +1,3 @@
 Tree graph
 
-The structure will be a hierarchical system with binary structure. 
-Each node is a condition. 
-For example, start with house type (e.g., single room or multiple rooms), and then each node further separated by more detailed category, such as a square feet, median income of neighborhood etc. The tree will organize the data a based on the home characteristics and show how the home value (above average under avergae) is determined. 
+The structure will be a hierarchical system with binary structure, purpose is show how home value(above/under state average) is determined by differnt factors. Each node is a set of conditions. For example, start with number of bathrooms, then each node further separated by more detailed category, such as a square feet, bedrrom numbers median income of neighborhood etc. 
