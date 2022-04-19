@@ -2,12 +2,12 @@
 
 The goal of this 'find your dream home' project is to help people to make informed decision when they are trying to buy a home in the state of Michigan. The code is written in Jupyter Notebook, running ipynb file in Jupyter Notebook or Jupyther Lab is recommened. Required python packages are listed in the project documentation. This Jupyter notebook contains six sections.
 
-Section 1: Import required python packages
-Section 2: Data source 1 Census API
-Section 3: Data source 2 Zillow web scrapping
-Section 4: Call data functions in section 2 and 3, and add additional hepler data crosswalk between zipcode and county
-Section 5: Tree graph
-Section 6: Interaction and visual presentation
+1. Import required python packages
+2. Data source 1 Census API
+3. Data source 2 Zillow web scrapping
+4. Call data functions in section 2 and 3, and add additional hepler data crosswalk between zipcode and county
+5. Tree graph
+6. Interaction and visual presentation
 
 Zillow function will scrap new data everytime we run the code, data cleaning and reformatting function aimed to be comperhensive but there might be small chance that it scrapped data that current function cannot process. If that happens, please run section 5 and 6, they will read the stored data. If everthing goes well, then stored data will be overwritten by newly scrapped data.
 
