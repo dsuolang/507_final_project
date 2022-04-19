@@ -1,226 +1,226 @@
 ,prices,address,bed_num,home_type,city,zip_code,baths,sqft,state,zipcode,county
-0,"$319,000",6728 Rix St SE,3.0,House for sale,Ada,MI 49301,2.0,1728.0,MI,49301,81
-1,"$260,000",1342 Waverly Dr,2.0,Condo for sale,White Lake,MI 48386,3.0,1586.0,MI,48386,125
-2,"$219,900",7230 Reinhardt Rd,3.0,House for sale,Monroe,MI 48162,2.0,1564.0,MI,48162,115
-3,"$179,900",2896 Miller Rd,3.0,House for sale,Metamora,MI 48455,2.0,1799.0,MI,48455,125
-4,"$164,900",1017 Maynard Rd,3.0,House for sale,Portland,MI 48875,2.0,1200.0,MI,48875,37
-5,"$140,000",321 Birch St,3.0,House for sale,Breckenridge,MI 48615,1.0,1009.0,MI,48615,111
-6,"$320,000",1549 Territorial Rd W,4.0,House for sale,Battle Creek,MI 49015,2.0,3324.0,MI,49015,25
-7,"$195,000",208 Barber St,3.0,House for sale,Spring Lake,MI 49456,2.0,2112.0,MI,49456,121
-8,"$209,000",1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
-9,"$230,000",2634 N Clinton Trl,3.0,House for sale,Charlotte,MI 48813,3.0,2198.0,MI,48813,45
-10,"$159,900",32114 Glaser Rd,3.0,House for sale,Brownstown,MI 48173,2.0,1116.0,MI,48173,163
-11,"$239,900",2302 54th St,3.0,House for sale,Fennville,MI 49408,2.0,1404.0,MI,49408,5
-12,"$198,000",36720 Suffolk St,3.0,House for sale,Clinton Township,MI 48035,2.0,1100.0,MI,48035,99
-13,"$165,000",2506 Gratiot Ave,3.0,House for sale,Port Huron,MI 48060,2.0,1324.0,MI,48060,147
-14,"$303,000",407 Kalkaska St NW,3.0,House for sale,Kalkaska,MI 49646,2.0,1816.0,MI,49646,79
-15,"$170,000",5217 Potomac Ave,3.0,House for sale,Warren,MI 48091,2.0,1037.0,MI,48091,99
-16,"$428,000",5620 Leblanc Ave,3.0,House for sale,Ann Arbor,MI 48103,3.0,1935.0,MI,48103,161
-17,"$250,000",9837 Six Mile Rd,4.0,House for sale,Northville,MI 48168,1.0,1448.0,MI,48168,161
-18,"$349,900",329 W 40th St,4.0,House for sale,Holland,MI 49423,2.0,1991.0,MI,49423,139
-19,"$300,000",14565 Shadywood Dr,3.0,House for sale,Plymouth,MI 48170,2.0,1946.0,MI,48170,161
-20,"$169,000",4425 Shabbona Rd,2.0,Home for sale,Cass City,MI 48726,2.0,1268.0,MI,48726,157
-21,"$249,900",1445 Spencer St NE,4.0,House for sale,Grand Rapids,MI 49505,2.0,2260.0,MI,49505,81
-22,"$130,000",433 Garland St,3.0,House for sale,Kalamazoo,MI 49001,1.0,796.0,MI,49001,77
-23,"$239,900",22834 Ulrich St,3.0,House for sale,Clinton Township,MI 48036,2.0,1470.0,MI,48036,99
-24,"$295,000",11088 S Dewitt Rd,3.0,House for sale,Dewitt,MI 48820,2.0,1344.0,MI,48820,37
-25,"$95,000",20612 Orangelawn St,3.0,House for sale,Detroit,MI 48228,2.0,1335.0,MI,48228,163
-26,"$249,900",1010 Orchard Ave,3.0,House for sale,Grand Haven,MI 49417,2.0,1800.0,MI,49417,139
-27,"$299,900",42461 Hanford Rd,3.0,House for sale,Canton,MI 48187,2.0,1377.0,MI,48187,163
-28,"$185,000",848 106th Ave,3.0,House for sale,Plainwell,MI 49080,1.0,1220.0,MI,49080,5
-29,"$199,900",3297 E 128th St,4.0,House for sale,Grant,MI 49327,1.0,1320.0,MI,49327,81
-30,"$319,900",8541 Woodhaven Dr SW,3.0,House for sale,Byron Center,MI 49315,2.0,2054.0,MI,49315,5
-31,"$269,900",6538 N 39th Rd,3.0,House for sale,Manton,MI 49663,2.0,1632.0,MI,49663,113
-32,"$239,900",6031 Elk Ridge Dr,4.0,House for sale,Eaton Rapids,MI 48827,2.0,2080.0,MI,48827,45
-33,"$175,000",4340 Anthony Dr,5.0,House for sale,Jackson,MI 49201,2.0,1680.0,MI,49201,75
-34,"$339,900",6516 Thimbleweed Ln NE,3.0,House for sale,Rockford,MI 49341,2.0,2216.0,MI,49341,81
-35,"$300,000",62779 Place Rd,3.0,House for sale,Lenox,MI 48048,2.0,1440.0,MI,48048,99
-36,"$149,900",3801 Wedgewood Dr,4.0,House for sale,Lansing,MI 48911,3.0,2049.0,MI,48911,45
-37,"$275,000",44136 Brandywyne Rd,3.0,House for sale,Canton,MI 48187,2.0,1387.0,MI,48187,163
-38,"$439,900",10691 Luce St,4.0,House for sale,Zeeland,MI 49464,2.0,3018.0,MI,49464,139
-39,"$179,900",5915 S State Rd,4.0,House for sale,Ionia,MI 48846,3.0,2128.0,MI,48846,67
-40,"$114,900",711 Union St,2.0,House for sale,Marshall,MI 49068,1.0,1037.0,MI,49068,25
-41,"$375,000",1165 S Ransom Ave,3.0,House for sale,White Cloud,MI 49349,3.0,2125.0,MI,49349,123
-42,"$699,900",2004 130th Ave,3.0,House for sale,Hopkins,MI 49328,3.0,2957.0,MI,49328,5
-43,"$169,000",3378 Harlow Trl,2.0,House for sale,Prescott,MI 48756,1.0,774.0,MI,48756,11
-44,"$269,000",9488 Cooley Lake Rd,3.0,House for sale,White Lake,MI 48386,2.0,2304.0,MI,48386,125
-45,"$159,900",4400 Clement Dr,3.0,House for sale,Saginaw,MI 48603,2.0,1188.0,MI,48603,145
-46,"$259,900",14320 Ostrander Rd,4.0,House for sale,Maybee,MI 48159,2.0,2274.0,MI,48159,115
-47,"$285,000",2200 Embro Dr SE,3.0,House for sale,Kentwood,MI 49508,3.0,2080.0,MI,49508,81
-48,"$65,900",54190 M 51 N,5.0,Lot / Land for sale,Dowagiac,MI 49047,,,MI,49047,27
-49,"$94,500",22870 Gratiot Rd,2.0,House for sale,Merrill,MI 48637,1.0,1184.0,MI,48637,57
-50,"$389,900",12430 Harder Rd,4.0,House for sale,Three Rivers,MI 49093,3.0,3284.0,MI,49093,149
-51,"$179,900",167 N Red Oak Rd,2.0,House for sale,Lewiston,MI 49756,2.0,1292.0,MI,49756,137
-52,"$380,000",5 Belle Ave,2.0,House for sale,Petoskey,MI 49770,2.0,1634.0,MI,49770,31
-53,"$235,000",25350 Kildare St,3.0,House for sale,Southfield,MI 48033,2.0,1430.0,MI,48033,125
-54,"$429,900",571 Madison Ave SE,4.0,House for sale,Grand Rapids,MI 49503,3.0,2400.0,MI,49503,81
-55,"$279,900",59854 Long Lake Rd,3.0,House for sale,Colon,MI 49040,2.0,1279.0,MI,49040,23
-56,"$359,000",10033 Woodland Acres Dr,4.0,House for sale,Grand Ledge,MI 48837,3.0,2712.0,MI,48837,45
-57,"$189,900",14108 Haggerty Rd,4.0,House for sale,Van Buren Township,MI 48111,1.0,1720.0,MI,48111,115
-58,"$265,000",6931 Rix St SE,3.0,House for sale,Ada,MI 49301,2.0,1232.0,MI,49301,81
-59,"$232,000",1858 Pine Dr,3.0,Home for sale,Traverse City,MI 49686,2.0,1456.0,MI,49686,55
-60,"$259,900",11788 Falcon Dr,3.0,House for sale,Sterling Heights,MI 48313,2.0,1075.0,MI,48313,99
-61,"$359,000",1666 Madison Ct,5.0,House for sale,Clarkston,MI 48346,4.0,1719.0,MI,48346,125
-62,"$299,000",8975 N Us Highway 31,3.0,House for sale,Ellsworth,MI 49729,2.0,2000.0,MI,49729,9
-63,"$119,000",4002 N Smith Rd,4.0,House for sale,Owosso,MI 48867,3.0,2109.0,MI,48867,155
-64,"$485,000",377 Kendry,3.0,House for sale,Bloomfield Hills,MI 48302,4.0,2507.0,MI,48302,125
-65,"$169,000",17343 Ilene St,3.0,House for sale,Detroit,MI 48221,2.0,1557.0,MI,48221,163
-66,"$244,900",22471 Lakeland St,3.0,House for sale,Saint Clair Shores,MI 48081,2.0,1450.0,MI,48081,99
-67,"$139,000",11580 S Hillsdale Rd,4.0,House for sale,Camden,MI 49232,1.0,1896.0,MI,49232,59
-68,"$194,900",2991 N Orr Rd,4.0,House for sale,Hemlock,MI 48626,3.0,2316.0,MI,48626,111
-69,"$119,900",1235 W Grand Blvd,4.0,House for sale,Detroit,MI 48208,1.0,1627.0,MI,48208,163
-70,"$349,890",48249 Pheasant St,4.0,House for sale,Chesterfield,MI 48047,4.0,2634.0,MI,48047,99
-71,"$250,000",320 N Tompkins St,3.0,House for sale,Howell,MI 48843,2.0,1608.0,MI,48843,93
-72,"$99,900",535 Samantha Ave,3.0,Home for sale,Lansing,MI 48910,2.0,1242.0,MI,48910,65
-73,"$200,000",9556 Elmdale Rd,3.0,House for sale,Alto,MI 49302,2.0,1456.0,MI,49302,81
-74,"$234,000",100 Beechmont Dr,3.0,House for sale,Brooklyn,MI 49230,3.0,2026.0,MI,49230,91
-75,"$79,900",20083 Greydale Ave,3.0,House for sale,Detroit,MI 48219,2.0,1223.0,MI,48219,163
-76,"$349,900",4061 Bartholomew Rd,3.0,House for sale,East Jordan,MI 49727,2.0,1600.0,MI,49727,9
-77,"$250,000",1328 Southern Ave,3.0,House for sale,Kalamazoo,MI 49001,2.0,1946.0,MI,49001,77
-78,"$160,000",4692 McKinley St,3.0,House for sale,Dearborn Heights,MI 48125,2.0,1053.0,MI,48125,163
-79,"$89,900",4909 Fraser Rd,3.0,Foreclosure,Bay City,MI 48706,2.0,1238.0,MI,48706,17
-80,"$399,900",22574 Denton Rd,3.0,House for sale,Chassell,MI 49916,3.0,3223.0,MI,49916,61
-81,"$350,000",360 Pine Ave,4.0,House for sale,Holland,MI 49423,3.0,2366.0,MI,49423,139
-82,"$224,900",50 N Centennial St,4.0,House for sale,Zeeland,MI 49464,1.0,1374.0,MI,49464,139
-83,"$289,000",5810 Lakeshore Rd N,2.0,House for sale,Palms,MI 48465,1.0,948.0,MI,48465,151
-84,"$124,900",108 N Water St,3.0,House for sale,Au Gres,MI 48703,2.0,1614.0,MI,48703,11
-85,"$425,000",1217 Bending Rd,3.0,House for sale,Ann Arbor,MI 48103,1.0,1380.0,MI,48103,161
-86,"$212,000",4930 Mayville Rd,3.0,Coming soon,Silverwood,MI 48760,2.0,1400.0,MI,48760,87
-87,"$399,000",2150 E Coon Lake Rd,3.0,House for sale,Howell,MI 48843,2.0,2770.0,MI,48843,93
-88,"$399,900",565 Edgeworthe Dr SE,4.0,House for sale,Ada,MI 49301,3.0,2640.0,MI,49301,81
-89,"$199,900",2855 Mann Rd,3.0,House for sale,Waterford,MI 48329,1.0,1400.0,MI,48329,125
-90,"$650,000",1407 River Rd,3.0,House for sale,Saint Clair,MI 48079,3.0,2126.0,MI,48079,147
-91,"$239,900",4112 E Cedar Lake Dr,2.0,House for sale,Greenbush,MI 48738,1.0,1100.0,MI,48738,69
-92,"$269,000",11209 Grenada Dr,4.0,House for sale,Sterling Heights,MI 48312,2.0,1736.0,MI,48312,99
-93,"$180,000",46386 Jefferson Ave,2.0,House for sale,Chesterfield,MI 48047,1.0,1432.0,MI,48047,99
-94,"$259,900",412 Nottingham Dr,3.0,House for sale,Brooklyn,MI 49230,2.0,1776.0,MI,49230,91
-95,"$439,500",1277 Mayer Rd,3.0,House for sale,Saint Clair,MI 48079,3.0,2350.0,MI,48079,147
-96,"$210,000",633 Richardson Rd,2.0,House for sale,Owosso,MI 48867,2.0,1536.0,MI,48867,155
-97,"$309,900",1811 Henbert Rd,3.0,House for sale,West Bloomfield,MI 48324,3.0,1742.0,MI,48324,125
-98,"$99,900",27539 Hanover Blvd,3.0,House for sale,Westland,MI 48186,1.0,840.0,MI,48186,163
-99,"$429,900",27180 Martindale Rd,3.0,House for sale,New Hudson,MI 48165,2.0,1795.0,MI,48165,125
-100,"$243,900",13266 Heather Ln,3.0,House for sale,Perry,MI 48872,2.0,2000.0,MI,48872,65
-101,"$285,000",2446 Terry Dr,3.0,House for sale,Walled Lake,MI 48390,2.0,1425.0,MI,48390,125
-102,"$270,000",53640 Washington St,3.0,House for sale,New Baltimore,MI 48047,2.0,1600.0,MI,48047,99
-103,"$460,000",1422 South Blvd,3.0,House for sale,Ann Arbor,MI 48104,3.0,1838.0,MI,48104,161
-104,"$300,000",7930 Mitchell Rd,4.0,House for sale,Atlanta,MI 49709,2.0,4082.0,MI,49709,119
-105,"$249,900",32201 Bretton St,4.0,House for sale,Livonia,MI 48152,3.0,1421.0,MI,48152,163
-106,"$329,900",8645 Grainery Rd SE,3.0,House for sale,Caledonia,MI 49316,3.0,2369.0,MI,49316,5
-107,"$99,900",3992 E Berrien St,3.0,House for sale,Sawyer,MI 49125,1.0,1948.0,MI,49125,21
-108,"$149,900",219  W. Main,2.0,House for sale,Michigamme,MI 49861,952.0,,MI,49861,13
-109,"$159,900",16263 Parkside St,3.0,House for sale,Detroit,MI 48221,2.0,1330.0,MI,48221,163
-110,"$155,000",5800 Shady Ln,4.0,House for sale,Newport,MI 48166,1.0,1442.0,MI,48166,115
-111,"$150,000",2091 Coolidge Ave,5.0,House for sale,Saginaw,MI 48603,2.0,1478.0,MI,48603,145
-112,"$145,000",737 Gettysburg Ave,2.0,House for sale,Jackson,MI 49203,2.0,1216.0,MI,49203,75
-113,"$379,000",5990 N Livernois Rd,3.0,House for sale,Rochester,MI 48306,2.0,1504.0,MI,48306,99
-114,"$119,900",76159 County Road 378,3.0,House for sale,Covert,MI 49043,2.0,1704.0,MI,49043,21
-115,"$219,900",4484 Cedardale Ln,3.0,Coming soon,Flushing,MI 48433,2.0,1966.0,MI,48433,155
-116,"$300,000+",The Courtney Plan,4.0,New construction,Railview Ridge,,4.0,2962.0,,,
-117,"$329,900",2828 River Pointe Dr,3.0,House for sale,Holt,MI 48842,4.0,2300.0,MI,48842,45
-118,"$399,900",53446 Marian Dr,3.0,House for sale,Shelby Township,MI 48315,3.0,2000.0,MI,48315,99
-119,"$199,900",603 Wayne St,4.0,Multi-family home for sale,Saint Joseph,MI 49085,3.0,1730.0,MI,49085,21
-120,"$220,000",3400 Durkee Rd,3.0,House for sale,Hastings,MI 49058,2.0,1768.0,MI,49058,15
-121,"$380,000",4504 Jacob Rd,3.0,Coming soon,Grass Lake,MI 49240,2.0,1997.0,MI,49240,75
-122,"$132,900",3590 W Browns Lake Rd,2.0,House for sale,Iron Mountain,MI 49892,1.0,770.0,MI,49892,43
-123,"$475,000",6750 Lower Mograin Rd,5.0,House for sale,Cheboygan,MI 49721,4.0,4136.0,MI,49721,141
-124,"$137,000",553 Octavius St,4.0,House for sale,Muskegon,MI 49442,2.0,1654.0,MI,49442,121
-125,"$279,900",12766 Oakley Rd,3.0,House for sale,Honor,MI 49640,2.0,1600.0,MI,49640,89
-126,"$185,000",3631 W Auburn Rd,4.0,House for sale,Rochester Hills,MI 48309,2.0,1634.0,MI,48309,125
-127,"$74,900",403 Woodside Ln,3.0,House for sale,Bay City,MI 48708,2.0,1666.0,MI,48708,145
-128,"$315,000",5107 Lucas Dr,3.0,Coming soon,Stockbridge,MI 49285,2.0,1536.0,MI,49285,93
-129,"$319,000",44219 Ausable Dr,3.0,House for sale,Clinton Township,MI 48038,3.0,2163.0,MI,48038,99
-130,"$90,000",14358 Rutherford St,3.0,House for sale,Detroit,MI 48227,2.0,1555.0,MI,48227,163
-131,"$95,000",714 N Dean St,3.0,House for sale,Bay City,MI 48706,1.0,1155.0,MI,48706,17
-132,"$159,000",1147 S Bingham Ave,3.0,New construction,White Cloud,MI 49349,1.0,1075.0,MI,49349,123
-133,"$250,000",2191 Moorwood Dr,3.0,House for sale,Holt,MI 48842,2.0,1629.0,MI,48842,45
-134,"$460,000",9872 Hillcrest Dr,4.0,House for sale,Plymouth,MI 48170,3.0,2807.0,MI,48170,161
-135,"$320,000",7358 Byron Rd,3.0,House for sale,Zeeland,MI 49464,2.0,1400.0,MI,49464,139
-136,"$299,900",118 Wilkinson St,4.0,House for sale,Chelsea,MI 48118,2.0,1652.0,MI,48118,161
-137,"$179,900",26755 S Raber Bay Dr,6.0,House for sale,Goetzville,MI 49736,2.0,2122.0,MI,49736,33
-138,"$389,900",9200 Murphy Hwy,3.0,House for sale,Tecumseh,MI 49286,3.0,1400.0,MI,49286,91
-139,"$139,900",1785 Allen Rd,3.0,House for sale,Allegan,MI 49010,2.0,1248.0,MI,49010,159
-140,"$119,900",1064 Hannah Ave,2.0,House for sale,Lansing,MI 48906,1.0,784.0,MI,48906,45
-141,"$199,900",150 S Snow Prairie Rd,5.0,House for sale,Coldwater,MI 49036,3.0,1980.0,MI,49036,23
-142,"$315,000",4404 Baldwin Rd,3.0,House for sale,Grand Blanc,MI 48439,2.0,1503.0,MI,48439,125
-143,"$169,900",20484 Elkhart St,3.0,House for sale,Harper Woods,MI 48225,1.0,1450.0,MI,48225,163
-144,"$474,900",9470 Deer Park Ct,4.0,House for sale,Fenton,MI 48430,3.0,1664.0,MI,48430,125
-145,"$79,900",20931 Centreville Constantine Rd,3.0,House for sale,Centreville,MI 49032,2.0,1680.0,MI,49032,149
-146,"$205,000",3080 Richmond St NW,4.0,House for sale,Grand Rapids,MI 49534,2.0,1916.0,MI,49534,139
-147,"$340,000",46405 Community Center Dr,3.0,House for sale,Chesterfield,MI 48047,3.0,1755.0,MI,48047,99
-148,"$145,000",1803 N M 33 Hwy,4.0,House for sale,Cheboygan,MI 49721,2.0,1450.0,MI,49721,141
-149,"$329,000",25953 Labana Woods Dr,4.0,House for sale,Taylor,MI 48180,3.0,2503.0,MI,48180,163
-150,"$325,900",7452 Gillett Rd NW,3.0,House for sale,Rapid City,MI 49676,1.0,1440.0,MI,49676,9
-151,"$279,900",4443 Pebble Creek Blvd,4.0,House for sale,Grand Blanc,MI 48439,3.0,2052.0,MI,48439,125
-152,"$205,000",15789 Woodbine,3.0,House for sale,Redford,MI 48239,2.0,1480.0,MI,48239,163
-153,"$289,900",4119 Stone Post Rd,4.0,House for sale,Newport,MI 48166,3.0,2016.0,MI,48166,115
-154,"$44,500",6445 Ashton Ave,2.0,Foreclosure,Detroit,MI 48228,1.0,683.0,MI,48228,163
-155,"$269,900",506 E Savidge St,3.0,House for sale,Spring Lake,MI 49456,1.0,1600.0,MI,49456,121
-156,"$264,900",521 N Lafayette St,3.0,House for sale,Dearborn,MI 48128,2.0,1338.0,MI,48128,163
-157,"$725,000",6859 Daly Rd,5.0,House for sale,Dexter,MI 48130,5.0,3425.0,MI,48130,161
-158,"$139,900",21212 White Cloud Dr,2.0,Home for sale,Howard City,MI 49329,3.0,1200.0,MI,49329,117
-159,"$125,000",298 E Bagnall Rd,2.0,House for sale,Cedarville,MI 49719,1.0,850.0,MI,49719,33
-160,"$89,900",3291 Cheney Rd,2.0,House for sale,Lewiston,MI 49756,1.0,1136.0,MI,49756,137
-161,"$259,900",8648 Peninsula St,3.0,House for sale,Sears,MI 49679,2.0,1872.0,MI,49679,107
-162,"$249,900",37899 Maplehill St,2.0,House for sale,Harrison Township,MI 48045,2.0,900.0,MI,48045,99
-163,"$180,000",4237 23rd St,3.0,House for sale,Wyandotte,MI 48192,2.0,1011.0,MI,48192,163
-164,"$389,900",7190 Blue Jay Dr,4.0,House for sale,Allendale,MI 49401,3.0,2730.0,MI,49401,139
-165,"$180,000",1349 S Briarfield Dr,4.0,House for sale,Lansing,MI 48910,3.0,2377.0,MI,48910,65
-166,"$299,000",1725 Coburn Ct,3.0,Condo for sale,Ann Arbor,MI 48108,2.0,1422.0,MI,48108,161
-167,"$229,900",64719 Winterwoods Dr,3.0,House for sale,Lawton,MI 49065,2.0,1736.0,MI,49065,159
-168,"$135,000",1917 W Miller Rd,3.0,House for sale,Lansing,MI 48911,2.0,1080.0,MI,48911,45
-169,"$625,000",15721 1275th Ln,2.0,House for sale,Garden,MI 49835,1.0,2236.0,MI,49835,41
-170,"$349,900",9361 E Bennington Rd,3.0,House for sale,Durand,MI 48429,3.0,2600.0,MI,48429,155
-171,"$275,000",525 N Doran Rd,3.0,House for sale,Imlay City,MI 48444,2.0,1450.0,MI,48444,147
-172,"$117,660",422 Lynch Ave,3.0,Foreclosure,Pontiac,MI 48342,2.0,1834.0,MI,48342,125
-173,"$189,900",3623 Campbell Rd,3.0,House for sale,North Street,MI 48049,2.0,1176.0,MI,48049,147
-174,"$69,000",5724 S Cherokee Bnd,4.0,House for sale,New Era,MI 49446,1.0,1250.0,MI,49446,127
-175,"$134,900",6251 Eagle Lake Ct,3.0,Home for sale,Kimball,MI 48074,2.0,1860.0,MI,48074,147
-176,"$345,000",2142 Eaton Trl,4.0,House for sale,Grayling,MI 49738,2.0,1600.0,MI,49738,135
-177,"$244,900",9299 Sixteen Mile Rd,3.0,House for sale,Rodney,MI 49342,2.0,1218.0,MI,49342,107
-178,"$179,900",9720 Monroe Rd,4.0,House for sale,Saint Helen,MI 48656,2.0,1700.0,MI,48656,143
-179,"$199,000",635 W Girard Ave,3.0,House for sale,Madison Heights,MI 48071,1.0,1219.0,MI,48071,125
-180,"$319,000",6728 Rix St SE,3.0,House for sale,Ada,MI 49301,2.0,1728.0,MI,49301,81
-181,"$260,000",1342 Waverly Dr,2.0,Condo for sale,White Lake,MI 48386,3.0,1586.0,MI,48386,125
-182,"$219,900",7230 Reinhardt Rd,3.0,House for sale,Monroe,MI 48162,2.0,1564.0,MI,48162,115
-183,"$179,900",2896 Miller Rd,3.0,House for sale,Metamora,MI 48455,2.0,1799.0,MI,48455,125
-184,"$164,900",1017 Maynard Rd,3.0,House for sale,Portland,MI 48875,2.0,1200.0,MI,48875,37
-185,"$140,000",321 Birch St,3.0,House for sale,Breckenridge,MI 48615,1.0,1009.0,MI,48615,111
-186,"$320,000",1549 Territorial Rd W,4.0,House for sale,Battle Creek,MI 49015,2.0,3324.0,MI,49015,25
-187,"$195,000",208 Barber St,3.0,House for sale,Spring Lake,MI 49456,2.0,2112.0,MI,49456,121
-188,"$209,000",1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
-189,"$319,000",6728 Rix St SE,3.0,House for sale,Ada,MI 49301,2.0,1728.0,MI,49301,81
-190,"$260,000",1342 Waverly Dr,2.0,Condo for sale,White Lake,MI 48386,3.0,1586.0,MI,48386,125
-191,"$219,900",7230 Reinhardt Rd,3.0,House for sale,Monroe,MI 48162,2.0,1564.0,MI,48162,115
-192,"$179,900",2896 Miller Rd,3.0,House for sale,Metamora,MI 48455,2.0,1799.0,MI,48455,125
-193,"$164,900",1017 Maynard Rd,3.0,House for sale,Portland,MI 48875,2.0,1200.0,MI,48875,37
-194,"$140,000",321 Birch St,3.0,House for sale,Breckenridge,MI 48615,1.0,1009.0,MI,48615,111
-195,"$320,000",1549 Territorial Rd W,4.0,House for sale,Battle Creek,MI 49015,2.0,3324.0,MI,49015,25
-196,"$195,000",208 Barber St,3.0,House for sale,Spring Lake,MI 49456,2.0,2112.0,MI,49456,121
-197,"$209,000",1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
-198,"$319,000",6728 Rix St SE,3.0,House for sale,Ada,MI 49301,2.0,1728.0,MI,49301,81
-199,"$260,000",1342 Waverly Dr,2.0,Condo for sale,White Lake,MI 48386,3.0,1586.0,MI,48386,125
-200,"$219,900",7230 Reinhardt Rd,3.0,House for sale,Monroe,MI 48162,2.0,1564.0,MI,48162,115
-201,"$179,900",2896 Miller Rd,3.0,House for sale,Metamora,MI 48455,2.0,1799.0,MI,48455,125
-202,"$164,900",1017 Maynard Rd,3.0,House for sale,Portland,MI 48875,2.0,1200.0,MI,48875,37
-203,"$140,000",321 Birch St,3.0,House for sale,Breckenridge,MI 48615,1.0,1009.0,MI,48615,111
-204,"$320,000",1549 Territorial Rd W,4.0,House for sale,Battle Creek,MI 49015,2.0,3324.0,MI,49015,25
-205,"$195,000",208 Barber St,3.0,House for sale,Spring Lake,MI 49456,2.0,2112.0,MI,49456,121
-206,"$209,000",1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
-207,"$319,000",6728 Rix St SE,3.0,House for sale,Ada,MI 49301,2.0,1728.0,MI,49301,81
-208,"$260,000",1342 Waverly Dr,2.0,Condo for sale,White Lake,MI 48386,3.0,1586.0,MI,48386,125
-209,"$219,900",7230 Reinhardt Rd,3.0,House for sale,Monroe,MI 48162,2.0,1564.0,MI,48162,115
-210,"$179,900",2896 Miller Rd,3.0,House for sale,Metamora,MI 48455,2.0,1799.0,MI,48455,125
-211,"$164,900",1017 Maynard Rd,3.0,House for sale,Portland,MI 48875,2.0,1200.0,MI,48875,37
-212,"$140,000",321 Birch St,3.0,House for sale,Breckenridge,MI 48615,1.0,1009.0,MI,48615,111
-213,"$320,000",1549 Territorial Rd W,4.0,House for sale,Battle Creek,MI 49015,2.0,3324.0,MI,49015,25
-214,"$195,000",208 Barber St,3.0,House for sale,Spring Lake,MI 49456,2.0,2112.0,MI,49456,121
-215,"$209,000",1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
-216,"$319,000",6728 Rix St SE,3.0,House for sale,Ada,MI 49301,2.0,1728.0,MI,49301,81
-217,"$260,000",1342 Waverly Dr,2.0,Condo for sale,White Lake,MI 48386,3.0,1586.0,MI,48386,125
-218,"$219,900",7230 Reinhardt Rd,3.0,House for sale,Monroe,MI 48162,2.0,1564.0,MI,48162,115
-219,"$179,900",2896 Miller Rd,3.0,House for sale,Metamora,MI 48455,2.0,1799.0,MI,48455,125
-220,"$164,900",1017 Maynard Rd,3.0,House for sale,Portland,MI 48875,2.0,1200.0,MI,48875,37
-221,"$140,000",321 Birch St,3.0,House for sale,Breckenridge,MI 48615,1.0,1009.0,MI,48615,111
-222,"$320,000",1549 Territorial Rd W,4.0,House for sale,Battle Creek,MI 49015,2.0,3324.0,MI,49015,25
-223,"$195,000",208 Barber St,3.0,House for sale,Spring Lake,MI 49456,2.0,2112.0,MI,49456,121
-224,"$209,000",1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
+0,295000.0,1305 County Road Pre,3.0,House for sale,Ishpeming,MI 49849,2.0,1972.0,MI,49849,103
+1,245000.0,30250 Champine St,3.0,House for sale,Saint Clair Shores,MI 48082,3.0,1582.0,MI,48082,99
+2,120000.0,320 S Hamilton St,3.0,House for sale,Marshall,MI 49068,2.0,1283.0,MI,49068,25
+3,76900.0,6554 Robin Dr,3.0,House for sale,Harrison,MI 48625,1.0,1000.0,MI,48625,113
+4,349900.0,14060 Lincoln St,4.0,House for sale,Grand Haven,MI 49417,3.0,2160.0,MI,49417,139
+5,209000.0,1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
+6,289900.0,6743 Juneview Ct NE,4.0,House for sale,Rockford,MI 49341,3.0,2292.0,MI,49341,81
+7,395000.0,32923 Robeson St,5.0,House for sale,Saint Clair Shores,MI 48082,4.0,2631.0,MI,48082,99
+8,220000.0,190 Fifteen Mile Rd NW,3.0,House for sale,Sparta,MI 49345,2.0,1804.0,MI,49345,139
+9,160000.0,322 W Lake St,3.0,House for sale,Sand Lake,MI 49343,1.0,1280.0,MI,49343,123
+10,440000.0,2660 Springside Dr,4.0,House for sale,Lowell,MI 49331,3.0,3262.0,MI,49331,81
+11,189500.0,5190 Bay Shore Dr,3.0,House for sale,Presque Isle,MI 49777,2.0,1530.0,MI,49777,141
+12,189900.0,5615 138th Ave,4.0,House for sale,Holland,MI 49423,1.0,1463.0,MI,49423,139
+13,230000.0,45 Sterling Dr,4.0,House for sale,Lapeer,MI 48446,2.0,1850.0,MI,48446,87
+14,169000.0,3378 Harlow Trl,2.0,House for sale,Prescott,MI 48756,1.0,774.0,MI,48756,11
+15,279900.0,6786 Bluegrass Dr,4.0,House for sale,Clarkston,MI 48346,3.0,1784.0,MI,48346,125
+16,160000.0,6482 Carlisle Hwy,3.0,House for sale,Charlotte,MI 48813,1.0,1272.0,MI,48813,45
+17,300000.0,2432 Kalarama Ave,4.0,House for sale,Portage,MI 49024,3.0,2982.0,MI,49024,77
+18,195000.0,8805 E 128th St,3.0,House for sale,Sand Lake,MI 49343,2.0,1512.0,MI,49343,123
+19,324900.0,3079 Rau Dr NE,3.0,House for sale,Sand Lake,MI 49343,2.0,2042.0,MI,49343,123
+20,329000.0,3860 N Hollister Rd,3.0,House for sale,Ovid,MI 48866,2.0,2411.0,MI,48866,37
+21,125000.0,0 M94,2.0,House for sale,Skandia,MI 49885,1.0,960.0,MI,49885,103
+22,269000.0,2905 W Milham Ave,3.0,House for sale,Portage,MI 49024,2.0,2116.0,MI,49024,77
+23,170000.0,25808 Maritime Cir N #49,2.0,Condo for sale,Harrison Township,MI 48045,2.0,1077.0,MI,48045,99
+24,549900.0,13318 Beckwith Dr NE,5.0,House for sale,Lowell,MI 49331,3.0,2585.0,MI,49331,81
+25,250000.0,8262 Fox Bay Dr,4.0,House for sale,White Lake,MI 48386,3.0,1308.0,MI,48386,125
+26,285000.0,11067 S Duck Lake Trl,2.0,House for sale,Sault Sainte Marie,MI 49783,2.0,2072.0,MI,49783,33
+27,244320.0,22014 Andover Dr #84/9,3.0,Condo for sale,Macomb,MI 48042,2.0,1470.0,MI,48042,99
+28,375000.0,2688 Lone Pine Rd,3.0,House for sale,Farwell,MI 48622,3.0,2490.0,MI,48622,35
+29,119000.0,10543 Puritan Rd,2.0,House for sale,Bessemer,MI 49911,1.0,1188.0,MI,49911,53
+30,280000.0,33942 Coachwood Dr,4.0,House for sale,Sterling Heights,MI 48312,2.0,1757.0,MI,48312,99
+31,129900.0,10811 N Brooks Rd,2.0,House for sale,Irons,MI 49644,1.0,995.0,MI,49644,85
+32,485000.0,377 Kendry,3.0,House for sale,Bloomfield Hills,MI 48302,4.0,2507.0,MI,48302,125
+33,239900.0,22834 Ulrich St,3.0,House for sale,Clinton Township,MI 48036,2.0,1470.0,MI,48036,99
+34,659000.0,20675 Thirty Mile Rd,4.0,House for sale,Ray,MI 48096,4.0,3017.0,MI,48096,99
+35,50000.0,5969 Au Sable Valley Rd,1.0,House for sale,Johannesburg,MI 49751,1.0,432.0,MI,49751,119
+36,700000.0,2927 Duana Dr,5.0,House for sale,Milford,MI 48380,6.0,3155.0,MI,48380,125
+37,459900.0,302 Seneca St,4.0,House for sale,Bellaire,MI 49615,2.0,2726.0,MI,49615,9
+38,199900.0,763 Elliott Ave,3.0,House for sale,Ishpeming,MI 49849,2.0,1360.0,MI,49849,103
+39,80000.0,1300 E Lafayette St #20405,2.0,Condo for sale,Detroit,MI 48207,2.0,1522.0,MI,48207,163
+40,28000.0,2967 Waverly St,3.0,House for sale,Detroit,MI 48238,2.0,1914.0,MI,48238,163
+41,229900.0,5323 Ann Arbor Rd,4.0,House for sale,Jackson,MI 49201,2.0,4890.0,MI,49201,75
+42,209900.0,50124 Circle Dr,4.0,House for sale,Dowagiac,MI 49047,2.0,1701.0,MI,49047,27
+43,299900.0,11808 Four Lakes Dr,3.0,House for sale,South Lyon,MI 48178,2.0,1670.0,MI,48178,125
+44,130000.0,10901 Whitehill St,3.0,House for sale,Detroit,MI 48224,2.0,1031.0,MI,48224,163
+45,269900.0,7515 County Road 612 NE,3.0,House for sale,Kalkaska,MI 49646,1.0,1346.0,MI,49646,79
+46,199900.0,33726 Donnelly St,3.0,House for sale,Garden City,MI 48135,1.0,1360.0,MI,48135,163
+47,325000.0,4709 Thornbird Dr,4.0,House for sale,Middleville,MI 49333,3.0,3226.0,MI,49333,15
+48,569900.0,6045 Fred W Moore Hwy,4.0,House for sale,China,MI 48054,3.0,2709.0,MI,48054,147
+49,189000.0,11639 Island Ct,2.0,House for sale,Hartland,MI 48353,1.0,882.0,MI,48353,93
+50,189900.0,13303 Tireman Ave,3.0,House for sale,Dearborn,MI 48126,2.0,1410.0,MI,48126,163
+51,179900.0,26755 S Raber Bay Dr,6.0,House for sale,Goetzville,MI 49736,2.0,2122.0,MI,49736,33
+52,0.0,46880 Reeder Rd,3.0,Auction,Decatur,MI 49045,6.0,8305.0,MI,49045,159
+53,550000.0,38740 N Jacobs St,4.0,House for sale,Lake Linden,MI 49945,3.0,2992.0,MI,49945,61
+54,145000.0,19 E Dexter Trl,3.0,House for sale,Mason,MI 48854,2.0,1398.0,MI,48854,65
+55,595000.0,3586 High View Dr,4.0,House for sale,Oxford,MI 48371,4.0,3109.0,MI,48371,125
+56,144900.0,53 N Widenmier St,4.0,House for sale,Midland,MI 48640,2.0,1304.0,MI,48640,111
+57,130000.0,433 Garland St,3.0,House for sale,Kalamazoo,MI 49001,1.0,796.0,MI,49001,77
+58,124900.0,909 N Berkley St,3.0,House for sale,Kalamazoo,MI 49006,1.0,726.0,MI,49006,77
+59,209900.0,133 Gaunt Ave,4.0,House for sale,Jackson,MI 49203,2.0,2225.0,MI,49203,75
+60,15.0,3750 Four Mile Rd N,3.0,Auction,Traverse City,MI 49686,2.0,1196.0,MI,49686,55
+61,99900.0,27539 Hanover Blvd,3.0,House for sale,Westland,MI 48186,1.0,840.0,MI,48186,163
+62,697500.0,13628 Driftwood Ct,3.0,House for sale,Plymouth,MI 48170,4.0,3577.0,MI,48170,161
+63,575000.0,12386 Hibner Rd,5.0,House for sale,Hartland,MI 48353,4.0,2564.0,MI,48353,93
+64,169900.0,4900 Fehn Rd,3.0,House for sale,Hemlock,MI 48626,1.0,1038.0,MI,48626,111
+65,399900.0,266 W Lake Dr,3.0,House for sale,Cadillac,MI 49601,2.0,1468.0,MI,49601,165
+66,589900.0,2584 W Taylor Rd,4.0,House for sale,Tecumseh,MI 49286,4.0,3650.0,MI,49286,91
+67,265000.0,7405 Creyts Rd,4.0,House for sale,Dimondale,MI 48821,2.0,2325.0,MI,48821,65
+68,200000.0,1005 Decamp Rd,3.0,House for sale,Leslie,MI 49251,3.0,4211.0,MI,49251,65
+69,429000.0,3028 N Branch Rd,4.0,House for sale,North Branch,MI 48461,2.0,2192.0,MI,48461,87
+70,439900.0,10691 Luce St,4.0,House for sale,Zeeland,MI 49464,2.0,3018.0,MI,49464,139
+71,469000.0,65633 Mount Vernon Rd,3.0,House for sale,Washington,MI 48095,3.0,1900.0,MI,48095,99
+72,689000.0,66643 Deerwood Ln,3.0,House for sale,Washington,MI 48095,4.0,3354.0,MI,48095,99
+73,760000.0,20 Harvard Pl,4.0,House for sale,Ann Arbor,MI 48104,3.0,1932.0,MI,48104,161
+74,250000.0,10671 Crabb Rd,3.0,House for sale,Temperance,MI 48182,2.0,2439.0,MI,48182,115
+75,249900.0,5757 Head Lake Rd,3.0,House for sale,Hastings,MI 49058,1.0,1260.0,MI,49058,15
+76,355000.0,2647 Gary Ave,3.0,House for sale,Brighton,MI 48114,3.0,1742.0,MI,48114,93
+77,135000.0,1917 W Miller Rd,3.0,House for sale,Lansing,MI 48911,2.0,1080.0,MI,48911,45
+78,399000.0,2150 E Coon Lake Rd,3.0,House for sale,Howell,MI 48843,2.0,1570.0,MI,48843,93
+79,375000.0,33132 Shiawassee Rd,4.0,House for sale,Farmington,MI 48336,4.0,2093.0,MI,48336,125
+80,205000.0,558 Green Cove Dr,3.0,Foreclosure,Holly,MI 48442,2.0,2040.0,MI,48442,49
+81,100000.0,894 Sunningdale Dr,3.0,House for sale,Inkster,MI 48141,2.0,966.0,MI,48141,163
+82,195000.0,1220 Orchard St,3.0,House for sale,Ferndale,MI 48220,1.0,880.0,MI,48220,125
+83,145000.0,2354 Murphy Rd,3.0,House for sale,Flint,MI 48504,2.0,1417.0,MI,48504,49
+84,249900.0,4478 S Morey Rd,4.0,House for sale,Lake City,MI 49651,1.0,1998.0,MI,49651,113
+85,109000.0,426 Michigan St,4.0,House for sale,Lapeer,MI 48446,2.0,1720.0,MI,48446,87
+86,253900.0,5390 12th Rd,3.0,House for sale,Escanaba,MI 49829,3.0,3700.0,MI,49829,41
+87,79900.0,23434 Lake Dr,3.0,House for sale,Cassopolis,MI 49031,1.0,1032.0,MI,49031,27
+88,279000.0,1220 Fairbanks St,3.0,House for sale,Iron Mountain,MI 49801,3.0,2438.0,MI,49801,43
+89,134900.0,1705 S Harrison Ave,3.0,Coming soon,Harrison,MI 48625,2.0,912.0,MI,48625,113
+90,430000.0,7386 Tottenham,4.0,House for sale,Shelby Township,MI 48317,3.0,2572.0,MI,48317,99
+91,235000.0,3598 Babylon Rd,2.0,House for sale,Allegan,MI 49010,2.0,1344.0,MI,49010,159
+92,388888.0,39346 Lembke Dr,3.0,House for sale,Sterling Heights,MI 48313,3.0,2260.0,MI,48313,99
+93,319900.0,87 Royal Rd,4.0,House for sale,Springfield,MI 49037,3.0,1968.0,MI,49037,77
+94,100000.0,21729 Beechwood Ave,4.0,House for sale,Eastpointe,MI 48021,2.0,1630.0,MI,48021,99
+95,89900.0,9044 Dixie Hwy,2.0,House for sale,Ira,MI 48023,2.0,1236.0,MI,48023,147
+96,250000.0,71363 24th Ave,4.0,House for sale,South Haven,MI 49090,2.0,1700.0,MI,49090,5
+97,119900.0,1235 W Grand Blvd,4.0,House for sale,Detroit,MI 48208,1.0,1627.0,MI,48208,163
+98,269900.0,1013 Buckley Ave,4.0,House for sale,Petoskey,MI 49770,3.0,1583.0,MI,49770,31
+99,1.0,2260 Steamburg Rd,3.0,Auction,Hillsdale,MI 49242,2.0,3456.0,MI,49242,59
+100,350000.0,2100 N County Line Rd,5.0,House for sale,Watervliet,MI 49098,2.0,2221.0,MI,49098,21
+101,375000.0,1345 Mesa Dr,3.0,House for sale,Ypsilanti,MI 48197,3.0,2489.0,MI,48197,161
+102,170000.0,34053 Oakview St,4.0,House for sale,Clinton Township,MI 48035,2.0,1800.0,MI,48035,99
+103,215000.0,3760 Nixon Rd,3.0,House for sale,Potterville,MI 48876,2.0,2472.0,MI,48876,45
+104,75000.0,5242 Marseilles St,2.0,House for sale,Detroit,MI 48224,1.0,1030.0,MI,48224,163
+105,160000.0,734 E Chapin St,3.0,House for sale,Cadillac,MI 49601,1.0,2665.0,MI,49601,165
+106,349900.0,11803 Redberry Ct NE,3.0,House for sale,Rockford,MI 49341,3.0,2070.0,MI,49341,81
+107,425000.0,1501 Broadway Ave NW,8.0,Multi-family home for sale,Grand Rapids,MI 49504,4.0,4392.0,MI,49504,81
+108,239900.0,1655 Walnut Heights Dr,3.0,House for sale,East Lansing,MI 48823,2.0,2027.0,MI,48823,37
+109,699900.0,201 Sunset Ave,4.0,House for sale,Petoskey,MI 49770,3.0,3000.0,MI,49770,31
+110,155000.0,5935 Okemos Rd,4.0,House for sale,East Lansing,MI 48823,2.0,2155.0,MI,48823,37
+111,195000.0,5539 Robin Dr,3.0,House for sale,Grand Blanc,MI 48439,1.0,1146.0,MI,48439,125
+112,119900.0,8583 S M 129,3.0,House for sale,Sault Sainte Marie,MI 49783,2.0,1500.0,MI,49783,33
+113,239900.0,3504 E Pinecrest Dr,3.0,House for sale,Gladwin,MI 48624,1.0,900.0,MI,48624,129
+114,369900.0,46430 Jackson Dr,3.0,House for sale,Macomb,MI 48044,3.0,1680.0,MI,48044,99
+115,20000.0,5060 S Washington Rd,5.0,House for sale,Saginaw,MI 48601,3.0,1973.0,MI,48601,145
+116,409900.0,617 Long Point Dr,3.0,House for sale,White Lake,MI 48386,1.0,1008.0,MI,48386,125
+117,119000.0,6165 Lodewyck St,3.0,House for sale,Detroit,MI 48224,1.0,1097.0,MI,48224,163
+118,170000.0,1613 E Harry Ave,3.0,House for sale,Hazel Park,MI 48030,1.0,1013.0,MI,48030,125
+119,250000.0,1939 Sylvan Ave SE,3.0,House for sale,Grand Rapids,MI 49506,2.0,1800.0,MI,49506,81
+120,249000.0,5487 Ridge Rd,2.0,House for sale,Hale,MI 48739,1.0,810.0,MI,48739,69
+121,219900.0,619 Barnett St NE,3.0,House for sale,Grand Rapids,MI 49503,2.0,1614.0,MI,49503,81
+122,364900.0,6840 Maple Grove Rd,3.0,House for sale,Nashville,MI 49073,2.0,2000.0,MI,49073,15
+123,18000.0,2010 E Phelps Rd,4.0,Lot / Land for sale,Lake City,MI 49651,,,MI,49651,113
+124,359021.0,2579 Gulliford Dr SE,4.0,House for sale,Lowell,MI 49331,2.0,1812.0,MI,49331,81
+125,15500.0,Off Elder Rd,5.0,Lot / Land for sale,Mancelona,MI 49659,,,MI,49659,79
+126,205000.0,16534 Huntington Rd,3.0,House for sale,Detroit,MI 48219,2.0,2158.0,MI,48219,163
+127,159900.0,249 Granite St,4.0,House for sale,Cadillac,MI 49601,2.0,1600.0,MI,49601,165
+128,164900.0,22636 Raven Ave S,3.0,House for sale,Eastpointe,MI 48021,2.0,986.0,MI,48021,99
+129,375000.0,1501 W Water St SUITE 67,2.0,Condo for sale,New Buffalo,MI 49117,2.0,1222.0,MI,49117,21
+130,279900.0,7937 Chippewa St,4.0,House for sale,Portage,MI 49024,3.0,2777.0,MI,49024,77
+131,325000.0,5802 Brown City Rd,3.0,House for sale,Brown City,MI 48416,3.0,2240.0,MI,48416,147
+132,330000.0,4287 Lyons Rd,3.0,House for sale,Lyons,MI 48851,2.0,1764.0,MI,48851,67
+133,84000.0,2387 Campbell Rd,2.0,Home for sale,Rose City,MI 48654,1.0,952.0,MI,48654,135
+134,319900.0,32247 Lancaster Dr,4.0,House for sale,Warren,MI 48088,2.0,1836.0,MI,48088,99
+135,525000.0,7215 E McDonald Dam Rd,4.0,House for sale,Ironwood,MI 49938,3.0,1530.0,MI,49938,53
+136,625000.0,10300 Clark Rd,4.0,House for sale,Davisburg,MI 48350,3.0,3408.0,MI,48350,125
+137,234900.0,2950 Hartline Dr,3.0,House for sale,Rochester Hills,MI 48309,1.0,1008.0,MI,48309,125
+138,164900.0,20153 McIntyre St,3.0,House for sale,Detroit,MI 48219,2.0,1075.0,MI,48219,163
+139,11500000.0,1558 Dutton Rd,7.0,"- ba22,181 sqft- House for sale",Rochester,MI 48306,,,MI,48306,99
+140,99800.0,13812 Timbers Rd,2.0,House for sale,Carleton,MI 48117,1.0,1896.0,MI,48117,163
+141,584900.0,1558 Greenwich Dr,4.0,House for sale,Troy,MI 48098,4.0,2792.0,MI,48098,125
+142,243900.0,13266 Heather Ln,3.0,House for sale,Perry,MI 48872,2.0,2000.0,MI,48872,65
+143,189000.0,21052 Le Fever Ave,3.0,House for sale,Warren,MI 48091,2.0,1244.0,MI,48091,99
+144,175500.0,885 Quillette St,2.0,House for sale,Beaverton,MI 48612,1.0,1078.0,MI,48612,51
+145,125000.0,503 E River St,3.0,House for sale,Cadillac,MI 49601,1.0,1155.0,MI,49601,165
+146,319900.0,17141 Monica St,5.0,House for sale,Detroit,MI 48221,3.0,2574.0,MI,48221,163
+147,229900.0,29041 Tawas St,3.0,House for sale,Madison Heights,MI 48071,2.0,1253.0,MI,48071,125
+148,239900.0,3175 Hardwood Heights Rd,2.0,House for sale,Prescott,MI 48756,2.0,1300.0,MI,48756,11
+149,209900.0,250 Cypress Ave,3.0,House for sale,Holland,MI 49423,2.0,2103.0,MI,49423,139
+150,219700.0,7841 Coleman St,4.0,House for sale,Dearborn,MI 48126,3.0,2000.0,MI,48126,163
+151,182000.0,3207 Country Club Dr,2.0,Condo for sale,Saint Clair Shores,MI 48082,2.0,1119.0,MI,48082,99
+152,585000.0,5685 Cobb Creek Rd,4.0,House for sale,Rochester,MI 48306,4.0,2194.0,MI,48306,99
+153,245000.0,14123 Foch St,3.0,House for sale,Livonia,MI 48154,2.0,1246.0,MI,48154,163
+154,315000.0,4404 Baldwin Rd,3.0,House for sale,Grand Blanc,MI 48439,2.0,1503.0,MI,48439,125
+155,20000.0,Easton Rd LOT V/L-2,2.0,Lot / Land for sale,Owosso,MI 48867,,,MI,48867,155
+156,20000.0,Easton Rd LOT V/L-1,2.0,Lot / Land for sale,Owosso,MI 48867,,,MI,48867,155
+157,149900.0,2017 Roberts Ln,3.0,House for sale,Lansing,MI 48910,2.0,1812.0,MI,48910,65
+158,310000.0,229 Lakewood St,4.0,House for sale,Detroit,MI 48215,3.0,2148.0,MI,48215,163
+159,289900.0,6 Ridgemont Dr,4.0,House for sale,Adrian,MI 49221,3.0,1970.0,MI,49221,91
+160,240000.0,5204 Heath Rd,3.0,House for sale,South Branch,MI 48761,2.0,1300.0,MI,48761,69
+161,265000.0,200 S Church St,4.0,House for sale,Saint Johns,MI 48879,2.0,2692.0,MI,48879,37
+162,149900.0,800 Fairmont Dr,3.0,House for sale,Houghton Lake,MI 48629,2.0,1180.0,MI,48629,143
+163,415000.0,15309 Farmbrook Estates Dr,3.0,House for sale,Macomb,MI 48044,3.0,2064.0,MI,48044,99
+164,625000.0,6262 Tiffany Pines Ct NE,5.0,House for sale,Rockford,MI 49341,4.0,4438.0,MI,49341,81
+165,257000.0,1050 E M 61,3.0,House for sale,Harrison,MI 48625,3.0,2260.0,MI,48625,113
+166,374900.0,5455 Pocono Dr,4.0,House for sale,West Bloomfield,MI 48323,3.0,2144.0,MI,48323,125
+167,299900.0,2536 Massena St,3.0,House for sale,Commerce Township,MI 48382,2.0,1607.0,MI,48382,125
+168,284700.0,4646 Sheridan Rd,3.0,House for sale,Vassar,MI 48768,3.0,2840.0,MI,48768,145
+169,395000.0,208 Kerby Rd,4.0,House for sale,Grosse Pointe Farms,MI 48236,3.0,1870.0,MI,48236,99
+170,184900.0,9303 Sandy Hollow Ln,3.0,House for sale,Davison,MI 48423,1.0,1100.0,MI,48423,49
+171,585000.0,997 Lake St,3.0,House for sale,South Haven,MI 49090,2.0,1326.0,MI,49090,5
+172,349900.0,3730 N Marion St,3.0,House for sale,Lewiston,MI 49756,2.0,1332.0,MI,49756,137
+173,200000.0,20450 Division Dr,4.0,House for sale,Marshall,MI 49068,1.0,1580.0,MI,49068,25
+174,7500.0,5558 Vancouver St,3.0,House for sale,Detroit,MI 48204,1.0,1078.0,MI,48204,163
+175,269900.0,3034 Baker Rd,3.0,House for sale,Dexter,MI 48130,1.0,1232.0,MI,48130,161
+176,169000.0,1107 Radov Dr,2.0,House for sale,Gladwin,MI 48624,1.0,1512.0,MI,48624,129
+177,169000.0,9577 Darragh Rd,3.0,House for sale,Mancelona,MI 49659,1.0,1174.0,MI,49659,79
+178,169900.0,32629 Donnelly St,3.0,House for sale,Garden City,MI 48135,1.0,1050.0,MI,48135,163
+179,175000.0,1153 Parkside Cir,3.0,Condo for sale,Grand Blanc,MI 48439,3.0,1860.0,MI,48439,125
+180,295000.0,1305 County Road Pre,3.0,House for sale,Ishpeming,MI 49849,2.0,1972.0,MI,49849,103
+181,245000.0,30250 Champine St,3.0,House for sale,Saint Clair Shores,MI 48082,3.0,1582.0,MI,48082,99
+182,120000.0,320 S Hamilton St,3.0,House for sale,Marshall,MI 49068,2.0,1283.0,MI,49068,25
+183,76900.0,6554 Robin Dr,3.0,House for sale,Harrison,MI 48625,1.0,1000.0,MI,48625,113
+184,349900.0,14060 Lincoln St,4.0,House for sale,Grand Haven,MI 49417,3.0,2160.0,MI,49417,139
+185,209000.0,1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
+186,289900.0,6743 Juneview Ct NE,4.0,House for sale,Rockford,MI 49341,3.0,2292.0,MI,49341,81
+187,395000.0,32923 Robeson St,5.0,House for sale,Saint Clair Shores,MI 48082,4.0,2631.0,MI,48082,99
+188,220000.0,190 Fifteen Mile Rd NW,3.0,House for sale,Sparta,MI 49345,2.0,1804.0,MI,49345,139
+189,295000.0,1305 County Road Pre,3.0,House for sale,Ishpeming,MI 49849,2.0,1972.0,MI,49849,103
+190,245000.0,30250 Champine St,3.0,House for sale,Saint Clair Shores,MI 48082,3.0,1582.0,MI,48082,99
+191,120000.0,320 S Hamilton St,3.0,House for sale,Marshall,MI 49068,2.0,1283.0,MI,49068,25
+192,76900.0,6554 Robin Dr,3.0,House for sale,Harrison,MI 48625,1.0,1000.0,MI,48625,113
+193,349900.0,14060 Lincoln St,4.0,House for sale,Grand Haven,MI 49417,3.0,2160.0,MI,49417,139
+194,209000.0,1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
+195,289900.0,6743 Juneview Ct NE,4.0,House for sale,Rockford,MI 49341,3.0,2292.0,MI,49341,81
+196,395000.0,32923 Robeson St,5.0,House for sale,Saint Clair Shores,MI 48082,4.0,2631.0,MI,48082,99
+197,220000.0,190 Fifteen Mile Rd NW,3.0,House for sale,Sparta,MI 49345,2.0,1804.0,MI,49345,139
+198,295000.0,1305 County Road Pre,3.0,House for sale,Ishpeming,MI 49849,2.0,1972.0,MI,49849,103
+199,245000.0,30250 Champine St,3.0,House for sale,Saint Clair Shores,MI 48082,3.0,1582.0,MI,48082,99
+200,120000.0,320 S Hamilton St,3.0,House for sale,Marshall,MI 49068,2.0,1283.0,MI,49068,25
+201,76900.0,6554 Robin Dr,3.0,House for sale,Harrison,MI 48625,1.0,1000.0,MI,48625,113
+202,349900.0,14060 Lincoln St,4.0,House for sale,Grand Haven,MI 49417,3.0,2160.0,MI,49417,139
+203,209000.0,1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
+204,289900.0,6743 Juneview Ct NE,4.0,House for sale,Rockford,MI 49341,3.0,2292.0,MI,49341,81
+205,395000.0,32923 Robeson St,5.0,House for sale,Saint Clair Shores,MI 48082,4.0,2631.0,MI,48082,99
+206,220000.0,190 Fifteen Mile Rd NW,3.0,House for sale,Sparta,MI 49345,2.0,1804.0,MI,49345,139
+207,295000.0,1305 County Road Pre,3.0,House for sale,Ishpeming,MI 49849,2.0,1972.0,MI,49849,103
+208,245000.0,30250 Champine St,3.0,House for sale,Saint Clair Shores,MI 48082,3.0,1582.0,MI,48082,99
+209,120000.0,320 S Hamilton St,3.0,House for sale,Marshall,MI 49068,2.0,1283.0,MI,49068,25
+210,76900.0,6554 Robin Dr,3.0,House for sale,Harrison,MI 48625,1.0,1000.0,MI,48625,113
+211,349900.0,14060 Lincoln St,4.0,House for sale,Grand Haven,MI 49417,3.0,2160.0,MI,49417,139
+212,209000.0,1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
+213,289900.0,6743 Juneview Ct NE,4.0,House for sale,Rockford,MI 49341,3.0,2292.0,MI,49341,81
+214,395000.0,32923 Robeson St,5.0,House for sale,Saint Clair Shores,MI 48082,4.0,2631.0,MI,48082,99
+215,220000.0,190 Fifteen Mile Rd NW,3.0,House for sale,Sparta,MI 49345,2.0,1804.0,MI,49345,139
+216,295000.0,1305 County Road Pre,3.0,House for sale,Ishpeming,MI 49849,2.0,1972.0,MI,49849,103
+217,245000.0,30250 Champine St,3.0,House for sale,Saint Clair Shores,MI 48082,3.0,1582.0,MI,48082,99
+218,120000.0,320 S Hamilton St,3.0,House for sale,Marshall,MI 49068,2.0,1283.0,MI,49068,25
+219,76900.0,6554 Robin Dr,3.0,House for sale,Harrison,MI 48625,1.0,1000.0,MI,48625,113
+220,349900.0,14060 Lincoln St,4.0,House for sale,Grand Haven,MI 49417,3.0,2160.0,MI,49417,139
+221,209000.0,1902 Hampden Rd,3.0,House for sale,Flint,MI 48503,3.0,1923.0,MI,48503,49
+222,289900.0,6743 Juneview Ct NE,4.0,House for sale,Rockford,MI 49341,3.0,2292.0,MI,49341,81
+223,395000.0,32923 Robeson St,5.0,House for sale,Saint Clair Shores,MI 48082,4.0,2631.0,MI,48082,99
+224,220000.0,190 Fifteen Mile Rd NW,3.0,House for sale,Sparta,MI 49345,2.0,1804.0,MI,49345,139
